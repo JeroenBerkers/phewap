@@ -6,8 +6,8 @@ import os
 import utime
 import _thread
 
-AP_NAME = "pi pico"
-AP_DOMAIN = "pipico.net"
+AP_NAME = "pipico"
+AP_DOMAIN = "pipico.home"
 AP_TEMPLATE_PATH = "ap_templates"
 APP_TEMPLATE_PATH = "app_templates"
 WIFI_FILE = "wifi.json"
